@@ -16,7 +16,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/ocean.jpg);
+    background-image: url(ocean.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -311,7 +311,7 @@ nav ul li a:hover::after
  }
  @media  only screen and (max-width: 600px){
     #header{
-        background-image: url(images/mobwaal.jpg);
+        background-image: url(mobwaal.jpg);
     }
     .header-text{
         margin-top:50% ;
